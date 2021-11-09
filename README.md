@@ -5,7 +5,7 @@ My name is Katalin. I am a full-stack software engineer with a non-traditional b
 My strengths as a developer today are defined by my former lives as an educator and HR admin. <br />
 💬 Reach out and ask me how those jobs have translated into some of these great traits I work with today:
 * Mindful of a company’s big picture
-* First-hand experience with the benefits of automation in the workplace
+* First-hand experience with the benefits of - and thus, major appreciation for - automation in the workplace
 * Focused on the end-user & human-experience
 * Mindful of accessibility and delivery
 * Regularly evaluating the what and the why
@@ -41,7 +41,7 @@ _Hackbright Academy, 2021_
 
 _University of Michigan, 2019, 3.8 GPA_
 
-
+<br />
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/katalin-schmidt/).
 
 <!--
