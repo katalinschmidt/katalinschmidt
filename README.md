@@ -19,7 +19,7 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 ### My Relevant Work Experience
 
-**FULL-STACK SOFTWARE ENGINNER FELLOW**
+**FULL-STACK SOFTWARE ENGINEER FELLOW**
 * Built  a  full-stack  Python  Flask  web  application  that  allows  Strava  users  to  visualize  and  filter  their  activities  on  an  interactive  JS  Leaflet  map  as  well  as  customize  the  appearance  of  the  map  and  to  create,  read,  update,  delete  training  goals  and  their  respective  training  plans  on  a  JS  FullCalendar  calendar.
 * Managed  the  software  development  life  cycle  of  a  full-stack  web  application,  including  planning  and  documentation  with  tools  such  as  wireframes  and  source  control (Git  &  Github).
 * Explored  and  analyzed  a  variety  of  API  documentations,  completing  testing  through  Postman.
