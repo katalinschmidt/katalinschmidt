@@ -2,7 +2,7 @@
 
 My name is Katalin. I am a full-stack software engineer with a non-traditional background.
 
-My strengths as a developer today are defined by my former lives as an educator and HR admin.
+My strengths as a developer today are defined by my former lives as an educator and HR admin. <br />
 💬 Reach out and ask me how those jobs have translated into some of these great traits I work with today:
 * Mindful of a company’s big picture
 * First-hand experience with the benefits of automation in the workplace
@@ -35,7 +35,7 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 **ACCELERATED SOFTWARE ENGINEERING FELLOWSHIP**
 
-_Hackbright Academy, 2021
+_Hackbright Academy, 2021_
 
 **BACHELOR OF ARTS (B.A), ENGLISH, GERMAN, SECONDARY EDUCATION**
 
