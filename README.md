@@ -41,6 +41,8 @@ _Hackbright Academy, 2021_
 
 _University of Michigan, 2019, 3.8 GPA_
 
+<br>
+
 ### Contact Me
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/katalin-schmidt/).
 
