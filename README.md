@@ -19,18 +19,6 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 <br>
 
-### My Education
-
-**ACCELERATED SOFTWARE ENGINEERING FELLOWSHIP**
-
-_Hackbright Academy, 2021_
-
-**BACHELOR OF ARTS (B.A), ENGLISH, GERMAN, SECONDARY EDUCATION**
-
-_University of Michigan, 2019, 3.8 GPA_
-
-<br>
-
 ### My Relevant Work Experience
 
 **FULL-STACK SOFTWARE ENGINEER FELLOW**
@@ -44,6 +32,18 @@ _University of Michigan, 2019, 3.8 GPA_
 * Designed  and  implemented  automated  systems  for  employee  life  cycle  management  processes using VBA  scripts  across  multiple  Microsoft  products  that  reduced  active  working  time  by  as  much  as  50%  per  case  and  80%   per  process,  paired  with  reduced  risk  for  human  error  and  faster  delivery  on  existing  SLAs.  
 * Supported  inter-enterprise  implementation  of  global  offboarding  policy  from  a  technical  perspective  by  liaising  with  GSA  HR  and  IT  Services  with  the  result  of  optimized  IT  reports  and  automated  risk  calculation  and  escalation  management.
 * Participated  in  the  takeover  of  HR  roles  from  local  GSA  teams  to  Budapest  team  including  augmenting  documentation  for  knowledge  transfer  and  fostering  of  positive  working  relationships  across  teams.
+
+<br>
+
+### My Education
+
+**ACCELERATED SOFTWARE ENGINEERING FELLOWSHIP**
+
+_Hackbright Academy, 2021_
+
+**BACHELOR OF ARTS (B.A.), ENGLISH, GERMAN, SECONDARY EDUCATION**
+
+_University of Michigan, 2019, 3.8 GPA_
 
 <br>
 
