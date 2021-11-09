@@ -41,8 +41,9 @@ _Hackbright Academy, 2021_
 
 _University of Michigan, 2019, 3.8 GPA_
 
+[LinkedIn](https://www.linkedin.com/in/katalin-schmidt/)
 <br />
-📫 You can find me on [LinkedIn](https://www.linkedin.com/in/katalin-schmidt).
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/katalin-schmidt/).
 
 <!--
 **katalinschmidt/katalinschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
