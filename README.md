@@ -4,16 +4,15 @@ My name is Katalin. I am a full-stack software engineer with a non-traditional b
 
 My strengths as a developer today are defined by my former lives as an educator and HR admin. <br>
 💬 Reach out and ask me how those jobs have translated into some of these great traits I work with today:
-* Mindful of a company’s big picture
-* First-hand experience with the benefits of, and thus major appreciation for, new automation in the workplace
-* Focused on the end-user & human-experience
-* Mindful of accessibility and delivery
-* Regularly evaluating the what and the why
 * Outstanding ability to communicate (be it reasoning, logic, or technical topics)
 * Proven ability to break complex things down
 * Detail-oriented
 * Results-oriented
-* Hungry to learn
+* Regularly evaluating the what and the why
+* Focused on the end-user & human-experience
+* Mindful of accessibility and delivery
+* Mindful of a company’s big picture
+* First-hand experience with the benefits of, and thus major appreciation for, new automation in the workplace
 
 <br>
 
