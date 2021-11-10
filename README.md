@@ -15,6 +15,8 @@ My strengths as a developer today are defined by my former lives as an educator 
 * Results-oriented
 * Hungry to learn
 
+<br>
+
 🔥 I thrive in environments where I am continually being asked to learn and have a sense of ownership over the given product or service. I feel especially rewarded when I know that my work is having a direct, positive impact on someone else's day - be that an employee of a company where new technologies are being implemented or an end-user of an application. Bonus points if I can collaborate with a team that has great mentorship and diversity.
 
 <br>
