@@ -3,7 +3,7 @@
 My name is Katalin. I am a full-stack software engineer with a non-traditional background.
 
 My strengths as a developer today are defined by my former lives as an educator and HR admin. <br>
-💬 Reach out and ask me how those jobs have translated into some of these great traits I work with today:
+Some of the unique traits I program with today as a result of those experiences are:
 * Outstanding ability to communicate (be it reasoning, logic, or technical topics)
 * Proven ability to break complex things down
 * Detail-oriented
