@@ -46,7 +46,7 @@ Some of the unique traits I bring to my programming today as a result of those e
 
 _Hackbright Academy, 2021_
 
-**BACHELOR OF ARTS (B.A.), ENGLISH, GERMAN, SECONDARY EDUCATION**
+**BACHELOR OF ARTS (B.A.)**
 
 _University of Michigan, 2019, 3.8 GPA_
 
