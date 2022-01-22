@@ -1,10 +1,10 @@
 ### Üdv! 👋 🇺🇸 🇭🇺 🇩🇪
 
-My name is Katalin. I am a full-stack software engineer with a non-traditional background.
+My name is Katalin. I am a full-stack software engineer, currently working with Python at Pinwheel.
 
 My strengths as a developer today are defined by my former lives as an educator and HR admin. <br>
-Some of the unique traits I program with today as a result of those experiences are:
-* Outstanding ability to communicate (be it reasoning, logic, or technical topics)
+Some of the unique traits I bring to my programming today as a result of those experiences are:
+* Excellent ability to communicate (be it reasoning, logic, or technical topics)
 * Proven ability to break complex things down
 * Detail-oriented
 * Results-oriented
@@ -21,6 +21,10 @@ Some of the unique traits I program with today as a result of those experiences 
 <br>
 
 ### My Relevant Work Experience
+
+**BACKEND SOFTWARE ENGINEER**
+* Wrote new integrations that ranged from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.
+* Monitored and supported live integrations to keep them healthy and up to date as platforms changed and evolved.
 
 **FULL-STACK SOFTWARE ENGINEER FELLOW**
 * Built  a  full-stack  Python  Flask  web  application  that  allows  Strava  users  to  visualize  and  filter  their  activities  on  an  interactive  JS  Leaflet  map  as  well  as  customize  the  appearance  of  the  map  and  to  create,  read,  update,  delete  training  goals  and  their  respective  training  plans  on  a  JS  FullCalendar  calendar.
