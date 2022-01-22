@@ -22,18 +22,18 @@ Some of the unique traits I bring to my programming today as a result of those e
 
 ### My Relevant Work Experience
 
-**BACKEND SOFTWARE ENGINEER**
+**BACKEND SOFTWARE ENGINEER | PINWHEEL API**
 * Wrote new integrations that ranged from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.
 * Monitored and supported live integrations to keep them healthy and up to date as platforms changed and evolved.
 
-**FULL-STACK SOFTWARE ENGINEER FELLOW**
+**FULL-STACK SOFTWARE ENGINEER FELLOW | HACKBRIGHT**
 * Built  a  full-stack  Python  Flask  web  application  that  allows  Strava  users  to  visualize  and  filter  their  activities  on  an  interactive  JS  Leaflet  map  as  well  as  customize  the  appearance  of  the  map  and  to  create,  read,  update,  delete  training  goals  and  their  respective  training  plans  on  a  JS  FullCalendar  calendar.
 * Managed  the  software  development  life  cycle  of  a  full-stack  web  application,  including  planning  and  documentation  with  tools  such  as  wireframes  and  source  control (Git  &  Github).
 * Explored  and  analyzed  a  variety  of  API  documentations,  completing  testing  through  Postman.
 * Collaborated  with  cohort  mates  in  30+  pair-programming  sessions,  resulting  in  improved  technical  communication  skills,  faster  comprehension  of  a  code  base,  and the  ability  to  quickly  analyze,  investigate,  and  solve  bugs  in  the  code  of  others.
 * Participated  in  two  2-week  sprints  and  daily  scrum  meetings  during  project  season  in  order  to  simulate  exposure  to  scrum  and  agile  development  methodologies. 
 
-**HR GENERALIST**
+**HR GENERALIST | SANOFI**
 * Designed  and  implemented  automated  systems  for  employee  life  cycle  management  processes using VBA  scripts  across  multiple  Microsoft  products  that  reduced  active  working  time  by  as  much  as  50%  per  case  and  80%   per  process,  paired  with  reduced  risk  for  human  error  and  faster  delivery  on  existing  SLAs.  
 * Supported  inter-enterprise  implementation  of  global  offboarding  policy  from  a  technical  perspective  by  liaising  with  GSA  HR  and  IT  Services  with  the  result  of  optimized  IT  reports  and  automated  risk  calculation  and  escalation  management.
 * Participated  in  the  takeover  of  HR  roles  from  local  GSA  teams  to  Budapest  team  including  augmenting  documentation  for  knowledge  transfer  and  fostering  of  positive  working  relationships  across  teams.
