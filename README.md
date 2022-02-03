@@ -1,19 +1,6 @@
 ### Üdv! 👋 🇺🇸 🇭🇺 🇩🇪
 
 My name is Katalin. I am a full-stack software engineer, currently working with Python at Pinwheel.
-
-My strengths as a developer today are defined by my former lives as an educator and HR admin. <br>
-Some of the unique traits I bring to my programming today as a result of those experiences are:
-* Excellent ability to communicate (be it reasoning, logic, or technical topics)
-* Proven ability to break complex things down
-* Detail-oriented
-* Results-oriented
-* Regularly evaluating the what and the why
-* Focused on the end-user & human-experience
-* Mindful of accessibility and delivery
-* Mindful of a company’s big picture
-* First-hand experience with the benefits of, and thus major appreciation for, new automation in the workplace
-
 <br>
 
 🔥 I thrive in environments where I am continually being asked to learn and have a sense of ownership over the given product or service. I feel especially rewarded when I know that my work is having a direct, positive impact on someone else's day - be that an employee of a company where new technologies are being implemented or an end-user of an application. Bonus points if I can collaborate with a team that has great mentorship and diversity.
