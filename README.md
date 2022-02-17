@@ -9,7 +9,7 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 ### My Relevant Work Experience
 
-**BACKEND SOFTWARE ENGINEER | PINWHEEL API**
+**SOFTWARE ENGINEER | PINWHEEL API**
 * Wrote new integrations that ranged from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.
 * Monitored and supported live integrations to keep them healthy and up to date as platforms changed and evolved.
 
