@@ -1,6 +1,6 @@
 ### Üdv! 👋 🇺🇸 🇭🇺 🇩🇪
 
-My name is Katalin. I am a full-stack software engineer, currently working with Python at Pinwheel. 
+My name is Katalin. I am a full-stack software engineer, currently working with Python at Pinwheel API. 
 <br>
 
 I thrive in environments where I am continually being asked to learn and have a sense of ownership over the given product or service. I feel especially rewarded when I know that my work is having a direct, positive impact on someone else's day - be that an employee of a company where new technologies are being implemented or an end-user of an application. Bonus points if I can collaborate with a team that has great mentorship and diversity.
@@ -9,7 +9,7 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 ### My Relevant Work Experience
 
-**SOFTWARE ENGINEER | PINWHEEL**
+**SOFTWARE ENGINEER | PINWHEEL API**
 * Wrote new integrations that ranged from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.
 * Monitored and supported live integrations to keep them healthy and up to date as platforms changed and evolved.
 
