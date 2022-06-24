@@ -9,9 +9,11 @@ I thrive in environments where I am continually being asked to learn and have a 
 
 ### My Relevant Work Experience
 
-**SOFTWARE ENGINEER | PINWHEEL API**
-* Wrote new integrations that ranged from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.
-* Monitored and supported live integrations to keep them healthy and up to date as platforms changed and evolved.
+**SOFTWARE ENGINEER, INTEGRATIONS | PINWHEEL API**
+* Designed  and  coded  new  backend  connections  between  Pinwheel  API  and  40+  third-party  platforms  with  the  result  of  increased  consumer  coverage   and  data  quality  for  financial  products  such  as  direct  deposit  automation,  real-time  identity  and  income  verification,  paycheck-linked  lending,  earned-wage  access,  etc.
+* Maintained  Pinwheel’s  1.5K+  existing  backend  connections  by  identifying  root  cause  of  production  issues  and  implementing  robust  solutions  or,  when  applicable,  proposing  and  spearheading systemic  solutions,  to  improve  connections’  data  quality  and  fault-tolerance.
+* Participated  in  a  guild  with  the  outcome  of  improved  technical  understanding  of  monitoring  tools  such  as  Retool  and  Datadog,  and  Amazon  products  such  as  Redshift  and  S3,  as  well  as  improved  cross-team  communication  and  collaboration  and  ownership  over  internal  monitoring  dashboards.
+
 
 **FULL-STACK SOFTWARE ENGINEER FELLOW | HACKBRIGHT**
 * Built  a  full-stack  Python  Flask  web  application  that  allows  Strava  users  to  visualize  and  filter  their  activities  on  an  interactive  JS  Leaflet  map  as  well  as  customize  the  appearance  of  the  map  and  to  create,  read,  update,  delete  training  goals  and  their  respective  training  plans  on  a  JS  FullCalendar  calendar.
